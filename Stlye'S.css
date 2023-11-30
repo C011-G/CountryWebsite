@@ -1,0 +1,102 @@
+.Title {
+    font-family: cursive;
+    color: crimson;
+    font-size: 60px;
+    text-align: center;
+    
+}
+.nav {
+
+list-style: none;
+
+padding-left: 0;
+
+width: 50%;
+
+margin: auto;
+
+text-align: center;
+}
+.nav>li {
+border-style: ridge;
+border-radius: 10px;
+
+
+display: inline-block;
+
+background-color:black;
+
+
+}
+img {
+width: auto;
+height: 800px;
+
+}
+
+
+.Q {
+    font-family: cursive;
+    font-size: xx-large;
+    color:crimson;
+}
+.P {
+font-size: xx-large;
+color: black;
+}
+.Col{
+color:blue;
+font-family: cursive;
+
+}
+
+.How {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+    text-align: center;
+
+}
+body {
+    background-color: steelblue;
+}
+
+
+.Emr{
+    font-family: fantasy;
+    color: darkred;
+    text-align: center;
+    font-size: 40px;
+
+
+
+}
+.Par {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+.YUI {
+    font-family: cursive;
+    color: darkred;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+
+.wer {
+    font-size: 40px;
+    font-family: monospace;
+
+}
+.RTE {
+    font-family: cursive;
+    color: darkblue;
+
+}
+
